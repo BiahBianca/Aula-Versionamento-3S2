@@ -18,4 +18,5 @@ O arquivo `README.md` é a vitrine ou a "capa" do seu projeto. É a primeira coi
 
 Mande o seu recado aqui:
 ---
+Bianca Stefani - Quero ir embora
 *Feito com 💻 e foco pela nossa turma de Desenvolvimento de Sistemas.*
